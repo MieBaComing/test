@@ -1,0 +1,10 @@
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\Debug\AnyCPU\Start IPC2 CSharp.exe.config
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\Debug\AnyCPU\Start IPC2 CSharp.exe
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\Debug\AnyCPU\Start IPC2 CSharp.pdb
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\obj\Debug\Start IPC2 CSharp.csprojResolveAssemblyReference.cache
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\obj\Debug\IPC2.FormMain.resources
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\obj\Debug\Start_IPC2_CSharp.Resources.resources
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\obj\Debug\Start IPC2 CSharp.csproj.GenerateResource.Cache
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\obj\Debug\Start IPC2 CSharp.csproj.CoreCompileInputs.cache
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\obj\Debug\Start IPC2 CSharp.exe
+C:\Users\蜗牛\Desktop\项目\Connect SDK\Connect SDK\Samples C#\Start IPC2 CSharp VS2013\obj\Debug\Start IPC2 CSharp.pdb
